@@ -1,14 +1,24 @@
-# VerClient
+# Verclient
 
-**VerClient** is a Minecraft Forge 1.20.1 Hack Client developed for **educational and experimental purposes**.
-
-⚠️ **Disclaimer:** This project is intended solely for learning about game mechanics, Java programming, and modding API interactions. The usage of this client on public servers where it is prohibited is strongly discouraged and may lead to bans. Use responsibly and only in environments where you have permission.
-
-## Tech Stack
-- **Game:** Minecraft Java Edition
-- **Version:** 1.20.1
-- **Mod Loader:** Forge
-- **Language:** Java
+Verclient is a custom utility client mod for Minecraft 1.20.1 (Forge).
 
 ## Features
-*Development is in progress...*
+
+### Modules
+- **KillAura**: Automatically attacks entities within range. Configurable settings for range, targets, and rotations.
+- **Telekinesis**: Hold Right Click to pick up mobs/entities and release to throw them.
+
+### UI
+- **Custom Main Menu**: A sleek, modern replacement for the vanilla main menu.
+
+## Localization
+- English (US)
+- Turkish (TR)
+
+## Installation
+1. Install Minecraft Forge 1.20.1 (47.2.0+).
+2. Place `verclient-0.1.0.jar` into your `mods` folder.
+3. Launch the game.
+
+## Development
+Run `./gradlew build` to build the mod.

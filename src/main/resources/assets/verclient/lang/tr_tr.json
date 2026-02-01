@@ -1,0 +1,11 @@
+{
+  "verclient.menu.title": "Verclient Ana Menü",
+  "menu.singleplayer": "Tek Oyunculu",
+  "menu.multiplayer": "Çok Oyunculu",
+  "menu.options": "Ayarlar",
+  "menu.quit": "Çıkış",
+  "module.killaura.name": "KillAura",
+  "module.killaura.desc": "Etraftaki varlıklara otomatik olarak saldırır.",
+  "module.telekinesis.name": "Telekinezi",
+  "module.telekinesis.desc": "Sağ tık basılı tutarak varlıkları kaldırın ve fırlatın."
+}

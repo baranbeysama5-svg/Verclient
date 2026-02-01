@@ -1,0 +1,11 @@
+{
+  "verclient.menu.title": "Verclient Main Menu",
+  "menu.singleplayer": "Singleplayer",
+  "menu.multiplayer": "Multiplayer",
+  "menu.options": "Options",
+  "menu.quit": "Quit",
+  "module.killaura.name": "KillAura",
+  "module.killaura.desc": "Automatically attacks entities around you.",
+  "module.telekinesis.name": "Telekinesis",
+  "module.telekinesis.desc": "Pick up and throw entities with right click."
+}
