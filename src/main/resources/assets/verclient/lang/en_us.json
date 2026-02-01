@@ -8,5 +8,9 @@
   "module.killaura.name": "KillAura",
   "module.killaura.desc": "Automatically attacks entities around you.",
   "module.telekinesis.name": "Telekinesis",
-  "module.telekinesis.desc": "Pick up and throw entities with right click."
+  "module.telekinesis.desc": "Pick up and throw entities with right click.",
+  "module.bowaimbot.name": "BowAimbot",
+  "module.bowaimbot.desc": "Automatically aims at entities when using a bow.",
+  "key.verclient.clickgui": "Open ClickGUI",
+  "category.verclient": "Verclient"
 }

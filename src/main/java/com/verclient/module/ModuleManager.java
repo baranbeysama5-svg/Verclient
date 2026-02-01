@@ -13,6 +13,7 @@ public class ModuleManager {
     public static void init() {
         modules.add(new KillAura());
         modules.add(new Telekinesis());
+        modules.add(new BowAimbot());
     }
 
     public static <T extends Module> T getModule(Class<T> clazz) {

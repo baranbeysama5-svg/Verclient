@@ -8,5 +8,9 @@
   "module.killaura.name": "KillAura",
   "module.killaura.desc": "Etraftaki varlıklara otomatik olarak saldırır.",
   "module.telekinesis.name": "Telekinezi",
-  "module.telekinesis.desc": "Sağ tık basılı tutarak varlıkları kaldırın ve fırlatın."
+  "module.telekinesis.desc": "Sağ tık basılı tutarak varlıkları kaldırın ve fırlatın.",
+  "module.bowaimbot.name": "Yay Hedefleyici",
+  "module.bowaimbot.desc": "Yay kullanırken otomatik nişan alır.",
+  "key.verclient.clickgui": "ClickGUI Aç",
+  "category.verclient": "Verclient"
 }
