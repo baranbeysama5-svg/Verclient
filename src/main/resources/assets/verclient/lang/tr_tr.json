@@ -3,6 +3,7 @@
   "menu.singleplayer": "Tek Oyunculu",
   "menu.multiplayer": "Çok Oyunculu",
   "menu.options": "Ayarlar",
+  "menu.changelog": "Değişiklikler",
   "menu.quit": "Çıkış",
   "module.killaura.name": "KillAura",
   "module.killaura.desc": "Etraftaki varlıklara otomatik olarak saldırır.",

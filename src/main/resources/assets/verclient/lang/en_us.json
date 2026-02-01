@@ -3,6 +3,7 @@
   "menu.singleplayer": "Singleplayer",
   "menu.multiplayer": "Multiplayer",
   "menu.options": "Options",
+  "menu.changelog": "Changelog",
   "menu.quit": "Quit",
   "module.killaura.name": "KillAura",
   "module.killaura.desc": "Automatically attacks entities around you.",
